@@ -1,0 +1,15 @@
+{
+    "settingsReloadIntervalMinutes": 1,
+    "fullscreen": true,
+    "autoStart": true,
+    "lazyLoadTabs": true,
+    "websites": [
+
+    {
+      "url": "https://web-alert.wisesight.dev?locationPanel=office",
+      "duration": 60,
+      "tabReloadIntervalSeconds": 600
+    }
+    
+    ]
+  }
