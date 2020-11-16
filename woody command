@@ -4,10 +4,12 @@
     "autoStart": true,
     "lazyLoadTabs": true,
     "websites": [
-      {
-        "url": "https://trend.wisesight.com/investment?locationPanel=office",
-        "duration": 60,
-        "tabReloadIntervalSeconds": 6000
-      }
+
+    {
+      "url": "https://trend.wisesight.com/investment/top?locationPanel=office",
+      "duration": 60,
+      "tabReloadIntervalSeconds": 600
+    }
+    
     ]
   }
